@@ -1,5 +1,3 @@
-Here's a `README` for your Taxi Management System project:
-
 ```markdown
 # Taxi Management System
 
